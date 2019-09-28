@@ -1,2 +1,4 @@
 # homework_IVT
-This is task for information
+Здесь находятся файлы с домашкой.
+Название файлов
+дата.тема.cpp
